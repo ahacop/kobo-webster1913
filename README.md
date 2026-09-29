@@ -22,6 +22,7 @@ change the entries and pack them again with `dictgen`.
 ## Install
 
 Custom dictionaries work without a patch on firmware 4.24.15672 and later.
+The dictionary works on a Kobo with firmware 4.38.23697.
 
 The easy way is `dictutil install`. Connect the Kobo, then run:
 
